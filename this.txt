@@ -1,0 +1,1 @@
+This File is regarding the working of the Machine Learning which is a subset of Artificial Intelligence. It plays a vital role in today's world and all the analysis mainly depends on the data we get from the users.
